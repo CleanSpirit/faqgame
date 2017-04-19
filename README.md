@@ -1,0 +1,2 @@
+# faqgame
+ Simple game
